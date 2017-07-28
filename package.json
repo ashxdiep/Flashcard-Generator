@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "trivia app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashxdiep/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "cards",
+    "clozone"
+  ],
+  "author": "Ash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashxdiep/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/ashxdiep/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
+}
